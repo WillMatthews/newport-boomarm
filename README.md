@@ -17,9 +17,9 @@ You may want to beef it up a bit, or use a stronger material (I used PETG, as it
 
 ## BoM
 
-Servo: DS3218MG 20kg Digital Servo
-Microcontroller: ESP8266 NodeMCU
-Power Supply: 5V 2A
+- Servo: DS3218MG 20kg Digital Servo
+- Microcontroller: ESP8266 NodeMCU
+- Power Supply: 5V 2A
 
 
 ## Wiring
